@@ -1,0 +1,1 @@
+gcloud run deploy sentiment-analyzer --allow-unauthenticated --service-account=sel-4-nlp@selvanlp-1542587147199.iam.gserviceaccount.com
