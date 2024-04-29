@@ -1,20 +1,25 @@
-Eloquence: Your AI-Powered English Refinement Tool
+**Eloquence: Your AI-Powered English Refinement Tool**
 Elevate your English communication with Eloquence, an AI-driven application that leverages Google Cloud's Vertex AI and language models to refine your speech and written language.
 
-Features
+_Features_
+
 Rephrasing for Confidence: Instantly transforms your input into more confident and grammatically sound English.
 Speech-to-Text & Text-to-Speech: Seamlessly converts spoken language into text and vice-versa, enhancing accessibility and clarity.
 Intuitive Interface: User-friendly design powered by Flet, making the refinement process effortless.
-How it Works
+
+_How it Works_
 Input: Speak or type your English phrase.
 AI Processing: Eloquence uses Google's powerful Text Bison model to analyze and refine your input.
 Output: Receive a polished version of your text, optimized for clarity and confidence.
-Getting Started
+
+_Getting Started_
+
 Prerequisites:
 
 Google Cloud Project: You'll need a Google Cloud project with Vertex AI enabled.
 Credentials: Set up your project credentials to access Google Cloud services.
-Installation:
+
+_Installation:_
 
 Clone this repository.
 Install the required libraries:
